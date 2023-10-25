@@ -1,0 +1,2 @@
+// Find the missing number: Given an array of numbers from 1 to N, where one number is missing,
+//  write a function to find the missing number. For example, if the input is [1, 2, 4, 5, 6], the output should be 3.
